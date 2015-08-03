@@ -11,3 +11,6 @@ http://www.seeedstudio.com/depot/NUCLEO-L152RE-Development-Board-for-STM32-p-193
 Ref RTC Control: 
 https://developer.mbed.org/users/kenjiArai/notebook/nucleo-series-rtc-control-under-power-onoff-and-re/
 #
+Resource all: 
+http://ds.arm.com/media/resources/
+#
